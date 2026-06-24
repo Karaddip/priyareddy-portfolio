@@ -20,12 +20,12 @@ const AboutSection = () => {
           </div>
           
           <div className="space-y-6 animate-fade-in-delayed">
-            <h3 className="text-2xl font-serif">Hi there, I'm Suhasini Polampelly</h3>
+            <h3 className="text-2xl font-serif">Hi there, I'm Priya Reddy</h3>
             <p className="text-portfolio-navy/80 leading-relaxed">
               <em>I'm a builder at heart and a storyteller in spirit.</em>
             </p>
             <p className="text-portfolio-navy/80 leading-relaxed">
-              With a Master's in Information Systems from Northeastern University, Boston, Bachelor's in Computer Science from BITS Pilani, Dubai and hands-on experience at PricewaterhouseCoopers(PwC), I navigate the space where technology meets impact. I love solving real problems with clean design, smart systems, and meaningful execution.
+              With a Master's in Information Systems from Northeastern University, Boston, Bachelor's in Information Technology from GNITS, India and hands-on experience at Accenture, I navigate the space where technology meets impact. I love solving real problems with clean design, smart systems, and meaningful execution.
             </p>
             <p className="text-portfolio-navy/80 leading-relaxed">
               But I'm more than just a developer. Whether I'm volunteering as a full-stack developer for NGOs, designing logos for local businesses, or helping organize events that bring people together. I find purpose in creating experiences that connect and empower.
@@ -33,9 +33,6 @@ const AboutSection = () => {
             <p className="text-portfolio-navy/80 leading-relaxed">
               I'm passionate about product, design, and operations — the full journey from "What if?" to "It works."
               And behind everything I do is a belief I carry from the Bhagavad Gita:
-            </p>
-            <p className="text-portfolio-navy/80 leading-relaxed">
-              <em>"Karmanye vadhikaraste, ma phaleshu kadachana"</em> — do your work with focus, not with attachment to results.
             </p>
             <p className="text-portfolio-navy/80 leading-relaxed">
               That's why my goal isn't just to build great things, it's to build things that matter. Work that feels good to use. Systems that scale. Solutions that spark progress.
