@@ -13,7 +13,7 @@ const AboutSection = () => {
           <div className="animate-fade-in flex justify-center items-center h-full">
             <img 
               src="/Portfolio/profile.png" 
-              alt="Suhasini Polampelly" 
+              alt="Priya Reddy" 
               className="object-cover rounded-2xl w-full max-w-sm md:max-w-md lg:max-w-lg h-[420px] md:h-[520px] lg:h-[600px] shadow-lg" 
               style={{ aspectRatio: '3/4' }}
             />
