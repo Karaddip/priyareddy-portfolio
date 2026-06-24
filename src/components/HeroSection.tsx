@@ -14,7 +14,7 @@ const HeroSection = () => {
             with data & design
           </h1>
           <p className="text-lg md:text-xl text-portfolio-navy/80 mb-8 md:mb-10 max-w-2xl mx-auto animate-fade-in-delayed">
-            Hi, I'm Suhasini Polampelly. I design thoughtful interfaces, build meaningful solutions, and bring ideas to life through systems that work and resonate through technology and user-centered thinking.
+            Hi, I'm Priya Reddy. I design thoughtful interfaces, build meaningful solutions, and bring ideas to life through systems that work and resonate through technology and user-centered thinking.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-delayed">
             <a 
